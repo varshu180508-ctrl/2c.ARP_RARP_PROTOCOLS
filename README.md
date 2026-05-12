@@ -17,7 +17,7 @@ stored.
 5. Map the IP address with its MAC address and return the MAC address to client.
 P
 ## PROGRAM - RARP
-server:
+```server:
 import socket
 s = socket.socket()
 s.bind(('localhost', 8000))
@@ -45,11 +45,11 @@ while True:
         print(f"MAC: {mac} not found in RARP table.")
         c.send("Not Found".encode())
 c.close()
-s.close()
+s.close()```
 
 
 client:
-import socket
+```import socket
 c = socket.socket()
 c.connect(('localhost', 8000))
 
@@ -60,7 +60,7 @@ while True:
     c.send(mac.encode())
     ip = c.recv(1024).decode()
     print(f"IP Address for {mac}: {ip}")
-c.close()
+c.close()```
 
 
 ## OUPUT -RARP
