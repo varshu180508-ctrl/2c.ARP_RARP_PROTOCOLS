@@ -61,12 +61,31 @@ while True:
 c.close()
 
 
-##OUPUT -RARP
+##OUPUT 
+ARP
 
 
-<img width="674" height="161" alt="cn 2 c 1" src="https://github.com/user-attachments/assets/ad82d5cb-a2ee-4947-97d8-7b2b766b55cf" />
+CLIENT
+<img width="1920" height="921" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/40d63bd1-e66c-43f6-af61-da6f85f6f4d4" />
 
-<img width="673" height="175" alt="cn 2 c 2" src="https://github.com/user-attachments/assets/7d400d57-153a-43cd-bede-5543953ee0f5" />
+SERVER
+
+<img width="1920" height="1060" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/5395e689-30fa-4f30-9b50-e6dff7bc11ff" />
+
+
+RARP
+
+CLIENT
+
+<img width="1920" height="929" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/4744fe71-03ef-4eff-a72a-dda433cfe20d" />
+
+
+SERVER
+
+<img width="1920" height="893" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/041584ce-97a6-48b5-ae02-84e674350eb6" />
+
+
+
 
 
 ## RESULT
